@@ -1,0 +1,11 @@
+Lab 1:
+Ryan Leskiw 
+
+Ryan Is a 2nd year Interaction design student at Capilano university's Idea school of design, Here is His Bio. 
+
+
+I grew up in North Vancouver and attended Carson graham secondary school, After graduating in 2018 I spent 3.5 years at UBC studying classical studies. I then decided to take a break from my studies and travelled to New Zealand for a year and a half. After returning from my trip I decided to switch programs to the one I am currently completing (IXD).My Interests include Mountain biking, Squash, Rugby, Surfing, Reading, Attending concerts, Swimming, and camping. 
+
+Lab 2:
+Bob's Computer acts as the client, Git hub acts as the web server. 
+Bobs enters a URL which makes an HTTP request from the server (github) which then displays the requested content.
